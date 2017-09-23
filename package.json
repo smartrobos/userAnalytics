@@ -1,7 +1,7 @@
 {
   "name": "user-analytics",
   "version": "1.0.0",
-  "description": "Project to get complete HTTP userAgent Info and IP Address Details",
+  "description": "Project to get complete HTTP userAgent Info ,IP Address and Location  Details",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
